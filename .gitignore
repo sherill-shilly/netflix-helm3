@@ -1,0 +1,5 @@
+*.tgz
+*.tmp
+*.swp
+*.lock
+.DS_Store
