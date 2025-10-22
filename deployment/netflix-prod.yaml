@@ -25,7 +25,7 @@ spec:
           releaseName: netflix
           parameters:
           - name: image.tag
-            value: foobar
+            value: netflix@sha256:7ec39fa0988b020aa2582bc71c629cffd9a5f31da4904966b4475a4acf4289f2
           valueFiles:
           - '{{valuesFile}}'
       destination:
